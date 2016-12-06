@@ -1,1 +1,2 @@
 hallo dit is een nieuw bestand
+ik weizig nu ook iets in remote op dezelfde regel als de lokale wijziging
