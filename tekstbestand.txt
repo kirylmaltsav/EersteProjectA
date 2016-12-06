@@ -1,2 +1,4 @@
 hallo dit is een nieuw bestand
 herpaderp tweede regel
+ik weizig nu ook iets in remote op dezelfde regel als de lokale wijziging
+>>>>>>> 62f57451acdc899fcd408bcb4dbbbbfd2126fd00
